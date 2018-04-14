@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=float\ getValorMes()
+comment1.params=valorMes
+comment1.target=void\ setValorMes(float)
+comment2.params=
+comment2.target=float\ calcularSalario()
+comment3.params=valorAumento
+comment3.target=float\ aumento(float)
+numComments=4

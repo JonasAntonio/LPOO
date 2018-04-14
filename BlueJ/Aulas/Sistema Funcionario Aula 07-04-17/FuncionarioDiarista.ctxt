@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=FuncionarioDiarista
+comment1.params=
+comment1.target=FuncionarioDiarista()
+comment10.params=
+comment10.target=float\ getValorDependente()
+comment11.params=
+comment11.target=float\ getLimitePercentual()
+comment2.params=valorDia\ numDias
+comment2.target=FuncionarioDiarista(float,\ int)
+comment3.params=nome\ matricula\ qtdeValesDia\ numDependentes\ valorDia\ numDias\ cargo
+comment3.target=FuncionarioDiarista(java.lang.String,\ int,\ int,\ int,\ float,\ int,\ Cargo)
+comment4.params=
+comment4.target=float\ getValorDia()
+comment5.params=valorDia
+comment5.target=void\ setValorDia(float)
+comment6.params=
+comment6.target=int\ getNumDias()
+comment7.params=numDias
+comment7.target=void\ setNumDias(int)
+comment8.params=
+comment8.target=float\ calcularSalario()
+comment9.params=
+comment9.target=int\ getLimiteDependentes()
+numComments=12

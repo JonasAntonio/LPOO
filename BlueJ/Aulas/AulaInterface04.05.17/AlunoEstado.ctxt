@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=AlunoEstado
+comment1.params=
+comment1.target=java.lang.String\ matricular()
+comment2.params=
+comment2.target=java.lang.String\ trancar()
+comment3.params=
+comment3.target=java.lang.String\ desistir()
+comment4.params=
+comment4.target=java.lang.String\ formar()
+comment5.params=
+comment5.target=java.lang.String\ jubilar()
+numComments=6
