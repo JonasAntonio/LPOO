@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Empresa()
+comment1.params=razaoSocial
+comment1.target=Empresa(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getRazaoSocial()
+comment3.params=razaoSocial
+comment3.target=void\ setRazaoSocial(java.lang.String)
+numComments=4

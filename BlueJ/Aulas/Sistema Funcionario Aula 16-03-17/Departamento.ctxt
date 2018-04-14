@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Departamento()
+comment1.params=descricao\ chefe\ empresa
+comment1.target=Departamento(java.lang.String,\ Funcionario,\ Empresa)
+comment10.params=
+comment10.target=void\ listarFuncionarios()
+comment11.params=nome
+comment11.target=boolean\ funcionarioDepartamento(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getDescricao()
+comment3.params=descricao
+comment3.target=void\ setDescricao(java.lang.String)
+comment4.params=
+comment4.target=Funcionario\ getChefe()
+comment5.params=chefe
+comment5.target=void\ setChefe(Funcionario)
+comment6.params=
+comment6.target=Empresa\ getEmpresa()
+comment7.params=empresa
+comment7.target=void\ setEmpresa(Empresa)
+comment8.params=
+comment8.target=java.lang.String\ getNomeChefe()
+comment9.params=funcionario
+comment9.target=void\ addFuncionario(Funcionario)
+numComments=12

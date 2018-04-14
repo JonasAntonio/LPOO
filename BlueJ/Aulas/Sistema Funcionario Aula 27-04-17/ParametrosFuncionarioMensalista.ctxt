@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=ParametrosFuncionarioMensalista
+comment1.params=
+comment1.target=int\ getNumDias()
+comment2.params=nDias
+comment2.target=void\ setNumDias(int)
+comment3.params=
+comment3.target=int\ getLimiteDependentes()
+comment4.params=limDependentes
+comment4.target=void\ setLimiteDependentes(int)
+comment5.params=
+comment5.target=float\ getValorDependente()
+comment6.params=valDependente
+comment6.target=void\ setValorDependente(float)
+comment7.params=
+comment7.target=float\ getLimitePercentual()
+numComments=8

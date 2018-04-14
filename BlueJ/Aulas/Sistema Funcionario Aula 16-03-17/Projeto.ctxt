@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Projeto()
+comment1.params=descricao
+comment1.target=void\ setDescricao(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getDescricao()
+comment3.params=funcionario
+comment3.target=void\ alocarFuncionario(Funcionario)
+comment4.params=
+comment4.target=void\ listarFuncionarios()
+numComments=5

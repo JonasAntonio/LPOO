@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=ParametrosFuncionarioDiarista
+comment1.params=
+comment1.target=int\ getLimiteDependentes()
+comment2.params=
+comment2.target=float\ getValorDependente()
+comment3.params=
+comment3.target=float\ getLimitePercentual()
+numComments=4
