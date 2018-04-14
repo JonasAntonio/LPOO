@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=aluno
+comment0.target=void\ adidionarAluno(Aluno)
+comment1.params=curso
+comment1.target=void\ adicionarCurso(Curso)
+comment2.params=
+comment2.target=void\ consultaAlunos()
+numComments=3

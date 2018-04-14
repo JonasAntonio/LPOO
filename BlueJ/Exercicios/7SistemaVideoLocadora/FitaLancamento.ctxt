@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=FitaLancamento()
+comment1.params=nomeFita\ emprestimo\ valorDia
+comment1.target=FitaLancamento(java.lang.String,\ Emprestimo,\ float)
+comment2.params=
+comment2.target=float\ calcularValorFita()
+numComments=3

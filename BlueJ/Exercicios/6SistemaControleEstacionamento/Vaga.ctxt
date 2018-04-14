@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Vaga()
+comment1.params=numeroVaga\ placa
+comment1.target=Vaga(int,\ java.lang.String)
+comment2.params=
+comment2.target=int\ getNumeroVaga()
+comment3.params=numeroVaga
+comment3.target=void\ setNumeroVaga(int)
+comment4.params=
+comment4.target=java.lang.String\ getPlaca()
+comment5.params=placa
+comment5.target=void\ setPlaca(java.lang.String)
+comment6.params=
+comment6.target=float\ calcularValTot()
+comment7.params=
+comment7.target=java.lang.String\ tipoClasse()
+comment8.params=
+comment8.target=java.lang.String\ dadosVaga()
+numComments=9

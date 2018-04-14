@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Cliente()
+comment1.params=codigo\ nome
+comment1.target=Cliente(int,\ java.lang.String)
+comment2.params=
+comment2.target=int\ getCodigo()
+comment3.params=codigo
+comment3.target=void\ setCodigo(int)
+comment4.params=
+comment4.target=java.lang.String\ getNome()
+comment5.params=nome
+comment5.target=void\ setNome(java.lang.String)
+comment6.params=vaga
+comment6.target=void\ adicionarVaga(Vaga)
+comment7.params=
+comment7.target=void\ consultaVagaCliente()
+comment8.params=
+comment8.target=void\ consultaValorVaga()
+numComments=9

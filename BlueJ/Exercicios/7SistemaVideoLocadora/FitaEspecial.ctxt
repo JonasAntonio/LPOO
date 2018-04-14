@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=FitaEspecial()
+comment1.params=nomeFita\ emprestimo\ valorDia
+comment1.target=FitaEspecial(java.lang.String,\ Emprestimo,\ float)
+comment2.params=
+comment2.target=float\ getValorDia()
+comment3.params=valorDia
+comment3.target=void\ setValorDia(float)
+comment4.params=
+comment4.target=float\ calcularValorFita()
+numComments=5

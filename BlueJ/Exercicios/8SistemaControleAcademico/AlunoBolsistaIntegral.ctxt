@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=matricula\ nome\ endereco\ parcelasIsentas
+comment0.target=AlunoBolsistaIntegral(int,\ java.lang.String,\ java.lang.String,\ float)
+comment1.params=
+comment1.target=float\ getParcelasIsentas()
+comment2.params=parcelasIsentas
+comment2.target=void\ setParcelasIsentas(float)
+comment3.params=
+comment3.target=float\ getValMensalidade()
+comment4.params=
+comment4.target=int\ numMensalidade()
+comment5.params=
+comment5.target=float\ calcularValorMensalidade()
+comment6.params=
+comment6.target=java.lang.String\ tipoClasse()
+numComments=7

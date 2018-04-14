@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Curso()
+comment1.params=codigo\ descricao\ cHoraria
+comment1.target=Curso(int,\ java.lang.String,\ int)
+comment10.params=
+comment10.target=void\ consultarAlunosCurso()
+comment2.params=
+comment2.target=int\ getCodigo()
+comment3.params=codigo
+comment3.target=void\ setCodigo(int)
+comment4.params=
+comment4.target=java.lang.String\ getDescricao()
+comment5.params=descricao
+comment5.target=void\ setDescricao(java.lang.String)
+comment6.params=
+comment6.target=int\ getCHoraria()
+comment7.params=cHoraria
+comment7.target=void\ setCHoraria(int)
+comment8.params=aluno
+comment8.target=void\ addAluno(Aluno)
+comment9.params=
+comment9.target=java.lang.String\ dadosCurso()
+numComments=11

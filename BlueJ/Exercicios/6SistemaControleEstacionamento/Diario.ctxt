@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Diario()
+comment1.params=numDias
+comment1.target=Diario(int)
+comment2.params=numeroVaga\ placa\ numDias
+comment2.target=Diario(int,\ java.lang.String,\ int)
+comment3.params=
+comment3.target=int\ getNumDias()
+comment4.params=numDias
+comment4.target=void\ setNumDias(int)
+comment5.params=
+comment5.target=float\ calcularValTot()
+comment6.params=
+comment6.target=java.lang.String\ tipoClasse()
+numComments=7

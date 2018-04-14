@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Semanal()
+comment1.params=numSemanas
+comment1.target=Semanal(int)
+comment2.params=numeroVaga\ placa\ numSemanas
+comment2.target=Semanal(int,\ java.lang.String,\ int)
+comment3.params=
+comment3.target=int\ getNumSemanas()
+comment4.params=numSemanas
+comment4.target=void\ setNumSemanas(int)
+comment5.params=
+comment5.target=float\ calcularValTot()
+comment6.params=
+comment6.target=java.lang.String\ tipoClasse()
+numComments=7
