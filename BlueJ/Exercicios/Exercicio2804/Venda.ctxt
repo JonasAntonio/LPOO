@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Venda
+comment1.params=
+comment1.target=Venda()
+comment2.params=comprador\ vendedor
+comment2.target=Venda(Cliente,\ Vendedor)
+comment3.params=
+comment3.target=Cliente\ getComprador()
+comment4.params=comprador
+comment4.target=void\ setComprador(Cliente)
+comment5.params=
+comment5.target=Vendedor\ getVendedor()
+comment6.params=vendedor
+comment6.target=void\ setVendedor(Vendedor)
+comment7.params=
+comment7.target=void\ finalizarVenda()
+numComments=8

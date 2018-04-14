@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Moto
+comment1.params=
+comment1.target=int\ getCilindradas()
+comment2.params=cilindradas
+comment2.target=void\ setCilindradas(int)
+comment3.params=
+comment3.target=java.lang.String\ tipoVeiculo()
+numComments=4

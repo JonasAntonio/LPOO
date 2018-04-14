@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Carro
+comment1.params=
+comment1.target=Carro()
+comment10.params=chassi
+comment10.target=void\ setChassi(java.lang.String)
+comment11.params=
+comment11.target=java.lang.String\ dadosCarro()
+comment12.params=
+comment12.target=java.lang.String\ tipoVeiculo()
+comment2.params=modelo\ ano\ placa\ preco\ marca\ qtdPortas\ cavalos\ tamPortaMalas\ chassi
+comment2.target=Carro(java.lang.String,\ int,\ java.lang.String,\ float,\ java.lang.String,\ int,\ int,\ int,\ java.lang.String)
+comment3.params=
+comment3.target=int\ getQtdPortas()
+comment4.params=qtdPortas
+comment4.target=void\ setQtdPortas(int)
+comment5.params=
+comment5.target=int\ getCavalos()
+comment6.params=cavalos
+comment6.target=void\ setCavalos(int)
+comment7.params=
+comment7.target=int\ getTamPortaMalas()
+comment8.params=tamPortaMalas
+comment8.target=void\ setTamPortaMalas(int)
+comment9.params=
+comment9.target=java.lang.String\ getChassi()
+numComments=13

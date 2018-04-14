@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=
+comment0.target=float\ getValorDia()
+comment1.params=valorDia
+comment1.target=void\ setValorDia(float)
+comment2.params=
+comment2.target=int\ getNumDias()
+comment3.params=numDias
+comment3.target=void\ setNumDias(int)
+comment4.params=
+comment4.target=float\ calcularSalario()
+comment5.params=
+comment5.target=int\ limiteDependentes()
+comment6.params=
+comment6.target=float\ valorDependente()
+comment7.params=
+comment7.target=float\ valorLimite()
+numComments=8

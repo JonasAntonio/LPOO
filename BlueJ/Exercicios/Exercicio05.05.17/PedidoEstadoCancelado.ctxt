@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=PedidoEstadoCancelado
+comment1.params=pedido
+comment1.target=java.lang.String\ aprovar(Pedido)
+comment2.params=pedido
+comment2.target=java.lang.String\ separar(Pedido)
+comment3.params=pedido
+comment3.target=java.lang.String\ encaminhar(Pedido)
+comment4.params=pedido
+comment4.target=java.lang.String\ entregar(Pedido)
+comment5.params=pedido
+comment5.target=java.lang.String\ cancelar(Pedido)
+numComments=6

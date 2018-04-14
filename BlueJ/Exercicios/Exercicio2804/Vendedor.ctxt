@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Vendedor
+comment1.params=
+comment1.target=Vendedor()
+comment2.params=nomeVendedor\ matricula\ comprador
+comment2.target=Vendedor(java.lang.String,\ java.lang.String,\ Cliente)
+comment3.params=
+comment3.target=java.lang.String\ getNomeVendedor()
+comment4.params=vendedor
+comment4.target=void\ setNomeVendedor(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getMatricula()
+comment6.params=matricula
+comment6.target=void\ setMatricula(java.lang.String)
+comment7.params=
+comment7.target=Cliente\ getComprador()
+comment8.params=comprador
+comment8.target=void\ setComprador(Cliente)
+comment9.params=
+comment9.target=java.lang.String\ dadosVendedor()
+numComments=10
