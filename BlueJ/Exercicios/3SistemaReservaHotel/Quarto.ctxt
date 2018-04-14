@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Quarto()
+comment1.params=numRef
+comment1.target=Quarto(int)
+comment2.params=
+comment2.target=int\ getNumRef()
+comment3.params=numRef
+comment3.target=void\ setNumRef(int)
+comment4.params=
+comment4.target=float\ getValorDia()
+comment5.params=
+comment5.target=java.lang.String\ tipoClasse()
+numComments=6

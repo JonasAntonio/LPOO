@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Duplo()
+comment1.params=numRef
+comment1.target=Duplo(int)
+comment2.params=
+comment2.target=float\ getValorRef()
+comment3.params=
+comment3.target=float\ getValorDia()
+comment4.params=
+comment4.target=java.lang.String\ tipoClasse()
+numComments=5

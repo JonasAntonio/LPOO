@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Hospede()
+comment1.params=codigo\ nome
+comment1.target=Hospede(int,\ java.lang.String)
+comment2.params=
+comment2.target=int\ getCodigo()
+comment3.params=codigo
+comment3.target=void\ setCodigo(int)
+comment4.params=
+comment4.target=java.lang.String\ getNome()
+comment5.params=nome
+comment5.target=void\ setNome(java.lang.String)
+comment6.params=reserva
+comment6.target=void\ addReserva(Reserva)
+comment7.params=
+comment7.target=void\ consultaReservas()
+numComments=8

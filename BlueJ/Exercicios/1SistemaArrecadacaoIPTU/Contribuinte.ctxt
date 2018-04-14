@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Contribuinte()
+comment1.params=codigo\ nome
+comment1.target=Contribuinte(int,\ java.lang.String)
+comment2.params=
+comment2.target=int\ codigo()
+comment3.params=codigo
+comment3.target=void\ setCodigo(int)
+comment4.params=
+comment4.target=java.lang.String\ getNome()
+comment5.params=nome
+comment5.target=void\ setNome(java.lang.String)
+comment6.params=imovel
+comment6.target=void\ addImovel(Imovel)
+comment7.params=
+comment7.target=void\ consultaCliente()
+comment8.params=
+comment8.target=void\ consultaValorImovel()
+numComments=9

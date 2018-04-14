@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Monitor()
+comment1.params=valorMaoObra
+comment1.target=Monitor(float)
+comment2.params=
+comment2.target=float\ getValorPecas()
+comment3.params=
+comment3.target=float\ calcularValorManutencao()
+comment4.params=
+comment4.target=java.lang.String\ tipoClasse()
+numComments=5

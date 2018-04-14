@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Reserva()
+comment1.params=numDias
+comment1.target=Reserva(int)
+comment2.params=
+comment2.target=int\ getNumDias()
+comment3.params=numDias
+comment3.target=void\ setNumDias(int)
+comment4.params=quarto
+comment4.target=void\ adicionarQuarto(Quarto)
+comment5.params=
+comment5.target=float\ calcValReserva()
+comment6.params=
+comment6.target=java.lang.String\ dadosReserva()
+comment7.params=
+comment7.target=void\ consultaValorReserva()
+numComments=8

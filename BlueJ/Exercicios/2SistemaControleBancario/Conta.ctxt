@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Conta()
+comment1.params=numero\ saldo\ cliente
+comment1.target=Conta(int,\ float,\ Cliente)
+comment10.params=
+comment10.target=java.lang.String\ dadosConta()
+comment11.params=
+comment11.target=void\ consultarContasSaldo()
+comment2.params=
+comment2.target=int\ getNumero()
+comment3.params=numero
+comment3.target=void\ setNumero(int)
+comment4.params=
+comment4.target=float\ getSaldo()
+comment5.params=saldo
+comment5.target=void\ setSaldo(float)
+comment6.params=
+comment6.target=Cliente\ getCliente()
+comment7.params=cliente
+comment7.target=void\ setCliente(Cliente)
+comment8.params=
+comment8.target=float\ calcularSaldo()
+comment9.params=
+comment9.target=java.lang.String\ tipoClasse()
+numComments=12

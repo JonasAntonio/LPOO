@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Imovel()
+comment1.params=areaTerreno
+comment1.target=Imovel(int)
+comment2.params=
+comment2.target=int\ getAreaTerreno()
+comment3.params=areaTerreno
+comment3.target=void\ setAreaTerreno(int)
+comment4.params=
+comment4.target=float\ calcularValorImovel()
+comment5.params=
+comment5.target=java.lang.String\ tipoClasse()
+numComments=6

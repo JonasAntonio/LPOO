@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Manutencao()
+comment1.params=numManutencao
+comment1.target=Manutencao(int)
+comment2.params=
+comment2.target=int\ getNumManutencao()
+comment3.params=numManutencao
+comment3.target=void\ setNumManutencao(int)
+comment4.params=equipamento
+comment4.target=void\ adicionarEquipamento(EquipamentoManutencao)
+comment5.params=
+comment5.target=java.lang.String\ dadosManutencao()
+numComments=6

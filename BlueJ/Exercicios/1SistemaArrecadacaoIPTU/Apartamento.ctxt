@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Apartamento()
+comment1.params=areaApartamento\ andar
+comment1.target=Apartamento(int,\ int)
+comment2.params=
+comment2.target=int\ getAreaApartamento()
+comment3.params=areaApartamento
+comment3.target=void\ setAreaApartamento(int)
+comment4.params=
+comment4.target=int\ getAndar()
+comment5.params=andar
+comment5.target=void\ setAndar(int)
+comment6.params=
+comment6.target=int\ getAreaTerreno()
+comment7.params=
+comment7.target=float\ calcularValorImovel()
+comment8.params=
+comment8.target=java.lang.String\ tipoClasse()
+numComments=9

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=FreteNormal()
+comment1.params=numero\ valor
+comment1.target=FreteNormal(int,\ float)
+comment2.params=
+comment2.target=float\ calcularValorFrete()
+comment3.params=
+comment3.target=java.lang.String\ tipoClasse()
+numComments=4

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Lote()
+comment1.params=areaTerreno
+comment1.target=Lote(int)
+comment2.params=
+comment2.target=float\ calcularValorImovel()
+comment3.params=
+comment3.target=java.lang.String\ tipoClasse()
+numComments=4
