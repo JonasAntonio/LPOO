@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=PessoaFisica()
+comment1.params=nome\ email\ endereco\ cpf
+comment1.target=PessoaFisica(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=cpf
+comment2.target=void\ setCpf(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getCpf()
+comment4.params=
+comment4.target=java.lang.String\ documentoIdentificacao()
+numComments=5

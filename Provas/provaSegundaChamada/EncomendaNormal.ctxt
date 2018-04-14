@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=EncomendaNormal()
+comment1.params=cliente
+comment1.target=EncomendaNormal(Cliente)
+comment2.params=
+comment2.target=int\ getDiasEntrega()
+comment3.params=
+comment3.target=java.lang.String\ getPrazo()
+numComments=4
